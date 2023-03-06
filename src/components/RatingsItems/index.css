@@ -1,0 +1,14 @@
+.rating-items {
+  list-style-type: none;
+}
+
+.rating-Btn {
+  border: none;
+  background-color: transparent;
+  margin-bottom: 10px;
+}
+
+.rating-img {
+  height: 30px;
+  width: 100px;
+}
